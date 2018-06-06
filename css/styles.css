@@ -1,1 +1,16 @@
+/* STYLE PRESETS DO NOT ALTER THIS SECTION */
+h1, h2, h3, h4, h5, h6 {
+    margin-top:10px;
+}
 
+p {
+    font-size:16px;
+}
+
+.fab, .far {
+    font-size:30px;
+    margin-left:5px;
+    margin-right:5px;
+}
+
+/* PLACE YOUR CUSTOM CODE HERE */
