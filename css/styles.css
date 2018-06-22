@@ -54,7 +54,7 @@ p {
 .box .icon {
   font-size: 30px;
 }
-.box h3 {
+.box h3, .footer h6 {
   font-weight: bold;
 }
 .box p {
@@ -64,5 +64,8 @@ p {
   height: 100px;
   background-color: #000;
   color: #fff;
-  font-weight: bold;
+  padding-top: 30px;
+}
+.footer a {
+  color: #fff;
 }
