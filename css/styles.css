@@ -1,1 +1,79 @@
+/* STYLE PRESETS DO NOT ALTER THIS SECTION */
+h1, h2, h3, h4, h5, h6 {
+    margin-top:10px;
+    font-family: 'Open Sans', sans-serif;
+}
 
+p {
+    font-size:16px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.fab, .far {
+    font-size:30px;
+    margin-left:5px;
+    margin-right:5px;
+}
+
+/* PLACE YOUR CUSTOM CODE HERE */
+.navbar {
+  background-color: #fff;
+  margin-bottom: 0;
+}
+.brand {
+  padding-left: 100px;
+  margin-top: 9px;
+}
+.logo-image {
+  height: 30px;
+}
+.logo {
+  font-family: 'Satisfy', cursive;
+  color: red;
+  font-size: 25px;
+}
+.menu {
+  padding-right: 100px;
+}
+.jumbotron {
+  height: 300px;
+  background-image: url(../img/hero.jpg);
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  color: #fff;
+}
+.jumbotron h2 {
+  margin-top: 65px;
+}
+.cats, .dogs {
+  margin-top: 75px;
+}
+.box {
+  background-color: #ccc;
+  padding: 50px 100px 50px 100px;
+}
+.box .icon {
+  font-size: 30px;
+}
+.box h3, .footer h6 {
+  font-weight: bold;
+}
+.box p {
+  font-size: 14px;
+}
+.footer {
+  height: 100px;
+  background-color: #000;
+  color: #fff;
+  padding-top: 30px;
+}
+.footer a {
+  color: #fff;
+}
+.contact-info {
+  list-style-type: none;
+}
+.contact-info li {
+  border: 1px solid #eee;
+}
